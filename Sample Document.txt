@@ -1,0 +1,5 @@
+Only repository collaborators can edit a public repository's wiki by default,
+but you can allow anyone with an account on GitHub.com to edit your wiki.
+You can use a wiki to share detailed, long-form information about your project.
+Wikis are available in public repositories with GitHub Free and GitHub Free for organizations, and in public and
+private repositories with GitHub Pro, GitHub Team, GitHub Enterprise Cloud and GitHub Enterprise Server.
