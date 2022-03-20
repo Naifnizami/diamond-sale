@@ -1,0 +1,7 @@
+<<<<<<< Updated upstream
+My brother.
+he is a wonderful person.
+
+=======
+MY BROTHER
+>>>>>>> Stashed changes
