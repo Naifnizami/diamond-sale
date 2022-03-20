@@ -1,3 +1,4 @@
+<<<<<<< ours
 <<<<<<< Updated upstream
 My brother.
 he is a wonderful person.
@@ -5,3 +6,6 @@ he is a wonderful person.
 =======
 MY BROTHER
 >>>>>>> Stashed changes
+=======
+MY BROTHER
+>>>>>>> theirs
